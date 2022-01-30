@@ -1,0 +1,14 @@
+.contentContainer {
+  background: url("https://filmdaily.co/wp-content/uploads/2021/08/bestcasino-lede-min-1300x731.jpg")
+    center/cover no-repeat;
+  height: 100vh;
+}
+tbody > tr > td {
+  color: white !important;
+}
+thead > tr > th > button {
+  color: rgb(14, 13, 13) !important;
+}
+.MuiPagination-ul li button {
+  color: black !important;
+}
